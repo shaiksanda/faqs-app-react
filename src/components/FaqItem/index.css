@@ -1,0 +1,31 @@
+/* Write your code here. */
+
+.faq-item {
+  border: 1px solid #d7dae6;
+  border-radius: 8px;
+  width: 100%;
+  padding: 10px;
+  margin: 4px;
+}
+
+.faq-item-heading {
+  font-size: 22px;
+  color: #52606d;
+}
+
+.question-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.image {
+  width: 20px;
+  height: 20px;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
